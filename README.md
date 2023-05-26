@@ -15,10 +15,21 @@ https://files.pythonhosted.org/packages/7f/99/ad6bd37e748257dd70d6f85d916cafe79c
 ##### (Optional) To find library file for others version. https://pypi.org/project/pytz/#files
 
 ### Step3: Check wheel is installed in your system or not. If not install it.
- pip install wheel
+```sh
+pip install wheel
+```
+
+#### If giving error like that update the pip persion.
+- `[notice] A new release of pip is available: 23.0.1 -> 23.1.2`
+- `[notice] To update, run: python.exe -m pip install --upgrade pip`
+```sh
+ python.exe -m pip install --upgrade pip
+ ```
 
 ### Step4: Unpack the library
+```sh
 wheel unpack library_name
+```
 
 It will create folder with specific library name.
 
