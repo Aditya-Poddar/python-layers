@@ -1,7 +1,7 @@
 
 # Pandas Lambda Function Layers for Python 3.10 Version
 
-## Easy method : Dowload the python.zip file from the repo and upload in lambda function.
+## Easy method : Dowload the <a href="https://github.com/Aditya-Poddar/python-layers/blob/main/Pandas/python.zip">Python.Zip</a> file from the repo and upload in lambda function.
 
 # Steps to create a your own custom pandas layer:
 
