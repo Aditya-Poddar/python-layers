@@ -1,7 +1,9 @@
 
 # Pandas Lambda Function Layers for Python 3.10 Version
 
-## Steps to create a custom pandas layer:
+## Easy method : Dowload the python.zip file from the repo and upload in lambda function.
+
+# Steps to create a your own custom pandas layer:
 
 ### Step1: Download the pandas library depending upon operating system.
 https://files.pythonhosted.org/packages/a3/40/eca46f6af07a83ea3b8706586b2d8a28c01bdccee789d24f2ccc5e148b28/pandas-2.0.1-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl
